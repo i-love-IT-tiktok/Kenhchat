@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -1661,4 +1660,3 @@ https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&log
 <a href="#-giới-thiệu">
   <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-667eea?style=for-the-badge" alt="Back to Top"/>
 </a></div>
-```
